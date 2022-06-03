@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Prints the exact words of given text
- * Description: Prints a string
+ * main - Prints a string
+ * Description: Prints the exact words of given text
  *
- * Return: 0
+ * Return: Always 0 (success)
  *
 */
 int main(void)
