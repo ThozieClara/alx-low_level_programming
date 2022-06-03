@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints a string
+ * main - Prints a function
  *
- * Description: It prints the exact words of given text
+ * Description: It prints a string
  *
  * Return: 0
  *
