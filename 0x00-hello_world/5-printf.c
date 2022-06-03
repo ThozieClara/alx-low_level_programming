@@ -3,11 +3,11 @@
  * main - Prints a string
  * Description: Prints the exact words of given text
  *
- * Return: Always 0 (success)
+ * Return: 0
  *
 */
 int main(void)
 {
 printf("\"with proper grammar, but the outcome is a piece of art,\n");
-Return 0;
+Return: 0;
 }
