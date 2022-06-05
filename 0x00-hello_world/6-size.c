@@ -3,9 +3,10 @@
 /**
  * main - Prints all data tpyes
  *
- * Description: Prints the size of various types on the computer 
+ * Description: Prints the size of various types in c programming
+ *
+ * Return: 0
 */
-Return: 0
 
 int main(void)
 {
