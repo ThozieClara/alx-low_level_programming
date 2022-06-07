@@ -1,10 +1,5 @@
-/*
-	 * File: 0-holberton.c
-	 * Auth: Brennan D Baraban
-	 *
-	 */
-
-#include "stdio.h"
+#include <stdio.h>
+#include <main.h>
 
 /**
  * main - Prints "_putchar" followed by a new line.
