@@ -1,17 +1,19 @@
-#include "main.h"
+/*
+ * File: 1-alphabet.c
+ */
+
+#include "mai.h"
 
 /**
- * main - Prints alphabet in lowercase, followed by new line
- *
-*/
-void print_alphabet(void);
+ * print_alphabet - prints the alphabet in lowercase.
+ */
+void print_alphabet(void)
 {
-char bet;
+	char bet;
 
-for (bet = 'a'; bet <= 'z'; bet++)
-{
-putchar (bet);
-putchar ('\n');
-}
+	for (bet = 'a'; bet <= 'z'; bet++)
+		_putchar(bet);
+
+	_putchar('\n');
 return (0);
 }
