@@ -8,7 +8,7 @@
 */
 void: print_alphabet(void)
 {
-int bet;
+char bet;
 
 for (bet = 'a'; bet <= 'z'; bet++)
 {
