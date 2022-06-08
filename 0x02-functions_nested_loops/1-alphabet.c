@@ -6,16 +6,17 @@
  * Return 0;
  *
 */
+
 void print_alphabet(void);
 {
 
-char bet;
+	char n;
 
-for (bet = 'a'; bet <= 'z'; bet++)
-{
-_putchar (bet);
-_putchar ('\n');
+	n = 'a';
+	while (n <= 'z')
+	{
+		_putchar(n);
+		n++;
+	}
+	_putchar('\n');
 }
-return (0);
-}
-
