@@ -9,13 +9,15 @@
 */
 void print_alphabet_x10(void)
 {
-int count = 0;
-char bet;
-
-	while (count++ <= 9)
+int m;
+for (m = 0, m < 10; m++)
+{
+	int bet;
+	for (bet = 'a'; bet <= 'z'; bet++)
 	{
-		for (bet = 'a'; bet <= 'z'; bet++)
 			_putchar(bet);
 	}
 		_putchar('\n');
+}
+return (0);
 }
