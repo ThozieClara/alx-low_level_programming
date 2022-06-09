@@ -18,5 +18,4 @@ char bet;
 			_putchar(bet);
 	}
 	_putchar('\n');
-	return (0);
 }
