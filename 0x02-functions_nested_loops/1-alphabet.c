@@ -11,7 +11,7 @@ void print_alphabet(void)
 {
 int bet;
 
-for (bet = 'a'; bet <= 'z'; bet++)x
+for (bet = 'a'; bet <= 'z'; bet++);
 {
 _putchar(bet);
 
