@@ -10,9 +10,9 @@
 void print_alphabet_x10(void)
 {
 int count = 0;
-char bet;
+int bet;
 
-	while (count++ <= 9)
+	for (count++ <= 9)
 	{
 		for (bet = 'a'; bet <= 'z'; bet++)
 			_putchar(bet);
